@@ -149,7 +149,7 @@ autoencoder's image AUROC (0.319) is worse than random guessing. Reconstruction
 error is a poor anomaly signal for a texture category where "normal" already
 contains high-frequency, irregular-looking variation.
 
-### Ablation: Backbone Comparison (ablation.csv)
+### Ablation: Backbone Comparison (ablation.csv) 
 
 | Category | Backbone     | Image AUROC | Pixel AUROC | PRO    | Avg Inference (ms) |
 | -------- | ------------ | ----------- | ----------- | ------ | ------------------ |
