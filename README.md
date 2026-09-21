@@ -1,24 +1,5 @@
 # Industrial Surface Defect Detection - MVTec AD
 
-## Team
-
-| Name                    | Registration | Email                                               |
-| ----------------------- | ------------ | --------------------------------------------------- |
-| M.T. Dineth             | E/23/076     | [e23076@eng.pdn.ac.lk](mailto:e23076@eng.pdn.ac.lk) |
-| H.M.U.A. Perera         | E/23/266     | [e23266@eng.pdn.ac.lk](mailto:e23266@eng.pdn.ac.lk) |
-| A.W.K.D.A. Alagiyawanna | E/23/012     | [e23012@eng.pdn.ac.lk](mailto:e23012@eng.pdn.ac.lk) |
-
-**Course:** CO543/CO5430 Computer Vision - 2026
-**Group:** G08 | **Project ID:** P17 | **Category:** Industrial Inspection
-
-### Development Note
-
-The project was developed collaboratively on a single laptop during the implementation and testing phase. Since the development was carried out locally before the repository was pushed to GitHub, the majority of the project files were committed and uploaded after the implementation was completed.
-
-Therefore, the GitHub commit history and individual contribution statistics do not fully represent the actual development process or the contributions made by each team member. The repository reflects the final completed implementation rather than the chronological development process.
-
-We have included this note for transparency when reviewing the repository.
-
 ## Problem Statement
 
 Unsupervised anomaly detection for industrial surface inspection, where the goal is
